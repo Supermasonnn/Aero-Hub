@@ -67,8 +67,7 @@
             </div>
             <div class="product-details">
                 <h2>Robux</h2>
-                <p> Airport standrad desk
-(once brought make a tikect in our discaord).</p>
+                <p> Airport Standard desk - Once bought, please make a ticket in our discord server.-</p>
                 <p><strong>Price:</strong> 20 Robux</p>
                 <a href="https://www.roblox.com/game-pass/676197711" target="_blank" class="buy-now-button">Buy Now</a>
             </div>
